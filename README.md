@@ -1,2 +1,2 @@
 # DataStructure
-Implementation for most datastructure and sorting algorithim in java
+Implementation for most datastructures and sorting algorithims in java
